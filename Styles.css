@@ -1,0 +1,72 @@
+@charset "utf-8";
+h1 {
+	font-family: loved-by-the-king;
+	text-align: center;
+	color: #754E27;
+	text-shadow: 0px -7px 6px #5D5D5D;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 59px;
+	text-transform: none;
+	word-spacing: -8px;
+	/* [disabled]background-color: #A7A7A7; */
+}
+#footer {
+	color: #585858;
+	text-align: center;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: 12px;
+	clear: both;
+}
+body {
+	background-image: url(../../Images/illustrated%20artichokes.jpg);
+}
+.Sidebar {
+	color: #000000;
+	background-color: darkgrey;
+	width: 15%;
+	clear: none;
+	float: left;
+	text-align: center;
+	border-radius: 23px;
+	
+}
+.MainContent {
+	color: #ABCE58;
+	background-color: #FFFFFF;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 25px;
+	width: 67%;
+	float: left;
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	margin-left: 5px;
+}
+.rightsidebar {
+	width: 15%;
+	float: left;
+	background-color: #A9A9A9;
+	color: #000000;
+	text-align: center;
+}
+
+.popquiz {
+	color: #8FA72D;
+	font-style: italic;
+	font-size: 22px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
+.APDiv {
+	left: 181px;
+	bottom: -611px;
+	position: absolute;
+}
+.MainContent p {
+	text-indent: 33px;
+}
